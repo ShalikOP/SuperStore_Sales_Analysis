@@ -18,13 +18,12 @@ The objective of this project is to contribute to the success of the business by
 
 ## Dataset Used
 
-[Madhav Ecommerce Raw Dataset](SuperStore_Sales_Dataset.csv)
+[SuperStore Raw Dataset](SuperStore_Sales_Dataset.csv)
 
 
 ## Dashboard
 
 ![Dashboard](Sales Dashboard.png)
-![Dashboard](Sales Forecast.png)
 
 ## Key Insights
 
