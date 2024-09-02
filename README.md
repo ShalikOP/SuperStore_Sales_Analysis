@@ -24,6 +24,7 @@ The objective of this project is to contribute to the success of the business by
 ## Dashboard
 
 ![Sales Dashboard](./Sales%20Dashboard.png)
+###
 ![Forecast](./Sales%20Forecast.png)
 
 ## Key Insights
